@@ -8,8 +8,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/apl/apl-original.svg" title="Api" alt="Api" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Photoshop UI" alt="Photoshop UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="Pytest" alt="Pytest" width="40" height="40"/>&nbsp;
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 <!--
 **Cka3o4Hukk/Cka3o4Hukk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
