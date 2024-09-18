@@ -1,6 +1,6 @@
 ## Hi there 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<div id="header" align="center">
+<div id="header" align="right">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=790b76110zmbx9bp70hf86emjgerkjunjyoi3nmklealj7ej&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400"/>
 </div>
 <!--
