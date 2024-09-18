@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I’m Alex👋
 <div id="header" align="right">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=790b76110zmbx9bp70hf86emjgerkjunjyoi3nmklealj7ej&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400"/>
 </div>
