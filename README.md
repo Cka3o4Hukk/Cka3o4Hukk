@@ -1,8 +1,8 @@
 ## Hi there 👋
-[![Top Langs]((https://github.com/anuraghazra/github-readme-stats))
 <div id="header" align="right">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=790b76110zmbx9bp70hf86emjgerkjunjyoi3nmklealj7ej&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400"/>
 </div>
+<img src="https://komarev.com/ghpvc/?username=Cka3o4Hukk&style=flat-square&color=blue" alt=""/>
 <!--
 **Cka3o4Hukk/Cka3o4Hukk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
