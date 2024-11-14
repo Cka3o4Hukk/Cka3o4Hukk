@@ -1,15 +1,14 @@
-<h3> Hello everyone, I'm Alex </h3> 
-Python web-developer since 2022 year and now I am actively looking for a job.
-<hr>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=500&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Alex;I'm+a+python+developer" alt="Typing SVG" /></a>
 
 🛠️ My tecknology stack:
-+ python 3.7+
++ Python 
 + Django, RestAPI, FastAPI, pytest, unittest
-+ SQL, sqlite3, postgresql
-+ git
-+ telebot
++ Postgresql, MySQL, SQlite
++ Git
++ Telebot, airogram
 + postman, vscode
 + windows, ubuntu
+
 <br>
 <div>
   <img width="40" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/>
@@ -19,6 +18,7 @@ Python web-developer since 2022 year and now I am actively looking for a job.
   <img width="40" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/>
   <img width="40" src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" alt="pytest" title="pytest"/>
 	<img width="40" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/>
+	
 </div>
 <div>
   <img width="40" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/></code>
@@ -29,6 +29,7 @@ Python web-developer since 2022 year and now I am actively looking for a job.
 **Cka3o4Hukk/Cka3o4Hukk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
